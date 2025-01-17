@@ -1,5 +1,5 @@
 # Obby
-An obstacle course made with Ursina
+A 3D obstacle course made with Ursina
 
 *HOW TO RUN*
 
